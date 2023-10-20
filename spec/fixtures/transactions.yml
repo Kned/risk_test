@@ -1,0 +1,28 @@
+        
+one:
+  transaction_id: 2342357
+  merchant_id: 29744
+  user_id: 97051
+  card_number: "434505******9116"
+  transaction_date: "2019-11-31T23:16:32.812632"
+  transaction_amount: 373
+  device_id: 285475
+
+has_cbk:
+  transaction_id: 2
+  merchant_id: 29744
+  user_id: 2
+  card_number: "434505******9116"
+  transaction_date: "2019-11-31T23:16:32.812632"
+  transaction_amount: 373
+  device_id: 1
+  has_cbk: true
+
+multiple_purchases_short_time_1:
+  transaction_id: 3
+  merchant_id: 29744
+  user_id: 3
+  card_number: "434505******9116"
+  transaction_date: "2019-11-31T23:16:32.812632"
+  transaction_amount: 373
+  device_id: 1
